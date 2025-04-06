@@ -1,6 +1,4 @@
 # AssemblyController
-Simple AssemblyController test
 
-
-Assembly simulator (for testing assebly code)
+8-bit Assembly simulator
 https://schweigi.github.io/assembler-simulator/
